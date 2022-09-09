@@ -2,7 +2,5 @@
 
 **Requirements:**
 1. IKVM
-2. Java (**with libs:**
- - MantisEngine.API.Java.jar
- - mscorlib.jar
-) 
+2. Java
+3. MEASI (MantisEngine api stubs installer) 
