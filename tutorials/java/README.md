@@ -2,7 +2,7 @@
 
 **Requirements:**
 1. IKVM
-2. Java
-**libs:**
-3. MantisEngine.API.Java.jar
-4. mscorlib.jar
+2. Java (**with libs:**
+ - MantisEngine.API.Java.jar
+ - mscorlib.jar
+) 
